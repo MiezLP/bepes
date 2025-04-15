@@ -1,10 +1,6 @@
 ---
 ---
 
-+@use 'abstracts/variables' with ( 
-+  $sidebar-width: 250px 
-+);
-
 @use 'main
 {%- if jekyll.environment == 'production' -%}
   .bundle

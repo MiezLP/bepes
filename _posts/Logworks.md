@@ -1,9 +1,10 @@
-title: Logworks
+---
+title: LogWorks
 description: Upcoming Game, currently in pre-alpha Testing.
 author: meez
-date: 2025-04-15 18:29 +0800
 categories: [Games,Info]
 pin: true
+---
 
 # Welcome to LogWorks  
 {: .mt-4 .mb-0 }

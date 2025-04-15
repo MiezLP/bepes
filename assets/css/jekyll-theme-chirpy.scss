@@ -1,9 +1,7 @@
 ---
 ---
 
-@use 'main' with (
-  $bundle: {%- if jekyll.environment == 'production' -%}true{%- else -%}false{%- endif -%}
-);
+@use 'main';
 
 /* append your custom style below */
 
@@ -13,14 +11,4 @@
 
 .px-xxl-5 {
   padding-right: 0 !important;
-}
-
-.RobloxLogo123 {
-  display: inline-block;
-  width: 1.25em;
-  height: 1.25em;
-  background-image: url('/assets/icons/roblox.svg');
-  background-size: contain;
-  background-repeat: no-repeat;
-  vertical-align: middle;
 }

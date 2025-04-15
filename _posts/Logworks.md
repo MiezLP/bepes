@@ -1,0 +1,78 @@
+title: Logworks
+description: Upcoming Game, currently in pre-alpha Testing.
+author: meez
+date: 2025-04-15 18:29 +0800
+categories: [Games,Info]
+pin: true
+
+# Welcome to LogWorks  
+{: .mt-4 .mb-0 }
+
+_LogWorks_ is an industrial logging and processing tycoon, blending heavy machinery with the organic chaos of nature. Chop, grind, automate, and build your own lumber empire in a world driven by physics, customization, and dynamic systems.
+
+## Core Gameplay  
+{: .mt-4 .mb-0 }
+
+Start with nothing, buy a terrible axe and waltz into a patch of forest. From there, chop raw logs, process them through machines like debarkers and sawmills, and transport the refined results to specialized buyers. Logs too big? Chip them down and repurpose the shavings into pellets or particle board.
+
+Every material has a path:
+- **Raw → Stripped → Plank/Beam → Refined → Bundled**
+- **Scraps → Shavings → Pellets or Particle Board**
+
+Buyers range from firewood shops to high-end craft retailers, each with changing prices based on a planned **dynamic economy**. Supply affects demand—smart players will watch the market.
+
+## Machinery & Building  
+{: .mt-4 .mb-0 }
+
+Set up production lines using chunky, industrial-grade machines:
+- **Debarker:** Strips raw logs, ejects bark waste
+- **Sawmill:** Slices logs into beams and planks
+- **Woodchipper:** Destroys oversize logs into shavings
+- **Pellet Press / Board Press:** Converts leftovers into sellable byproducts
+
+A flexible **placement system** lets you build with near-endless creativity:
+- Press `F` to swap blueprint shapes, toggle decorative accents, and rescale along X/Y/Z (for blueprints only)
+- One wedge blueprint = over 370+ possible configurations
+- Snap objects, stack crates, run conveyors with automatic direction detection—it all just works
+
+## Vehicles & Terrain  
+{: .mt-4 .mb-0 }
+
+Get around using a van or car. Drive over realistic terrain shaped by slopes, rivers, and water physics. More vehicles coming.
+
+The **day-night cycle** affects visibility and vibe. Every **biome** has unique lighting, sound, and music:
+- **AutumnVale:** Warm tones, thick forests
+- **Everpine Valley:** Chilly, serene conifers
+- **BorealCliffs:** Rugged slopes, vertical gameplay
+- **Geyser Zones:** Hostile heat, rare trees
+- **More in the works!**
+
+Each area comes with its own atmosphere and aesthetic—from cozy to hazardous.
+
+## Selling & Strategy  
+{: .mt-4 .mb-0 }
+
+You’ll sell wood at a variety of locations, each with unique needs. Some want firewood, others demand refined or bundled products. Choose whether to mass-produce or specialize.  
+
+Market prices are planned to **shift dynamically**, similar to _Slime Rancher_—watch trends, adapt, and profit.
+
+## Bonus Systems  
+{: .mt-4 .mb-0 }
+
+- **Bug Bounty Program:** Find a bug, report it, earn BugCoins for exclusive perks
+- **Acrewrights:** Land and blueprint vendor—expand your plot and your options
+- **Blueprint Scaling:** Scale any placed blueprint on the fly—perfect for customizing builds
+
+## **Sneak Peek: Future Plans**  
+{: .mt-4 .mb-0  
+- **Boats**: ...Boats.  
+- **NPC Contracts**: Rebuild the lighthouse, supply the cartographer—your reputation opens doors.  
+- **
+
+## Wrap-Up  
+{: .mt-4 .mb-0 }
+
+_LogWorks_ isn’t just about cutting trees. It’s about transforming wood through layered, player-driven systems—from swinging axes to running a full-on industrial site. Whether you're here to min-max production lines or just enjoy the vibe, it’s a game that grows with you.
+
+
+For more details and updates, join our community on [Discord](https://discord.gg/uEbTSzZnwy).

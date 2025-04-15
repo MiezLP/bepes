@@ -9,6 +9,11 @@
 
 /* append your custom style below */
 
-.rounded-circle {
+#sidebar #avatar img:hover {
+	transform: scale(1.05);
+}
+
+#sidebar #avatar {
   border-radius: 15% !important;
+  box-shadow: rgb(207, 17, 210) 0 0 0 3px;
 }

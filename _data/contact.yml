@@ -9,9 +9,11 @@
   
 - type: discord
   icon: "fa-brands fa-discord"
+  url: "https://discord.gg/uEbTSzZnwy"
   
 - type: roblox
   icon: "/assets/icons/roblox.svg"
+  url: "https://www.roblox.com/communities/4333835/bepes"
 
 - type: rss
   icon: "fas fa-rss"

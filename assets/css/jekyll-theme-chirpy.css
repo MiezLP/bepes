@@ -9,12 +9,6 @@
 
 /* append your custom style below */
 
-.RobloxLogo123 {
-  display: inline-block;
-  width: 1em;
-  height: 1em;
-  background-image: url('/assets/icons/roblox.svg');
-  background-size: contain;
-  background-repeat: no-repeat;
-  vertical-align: middle;
+.rounded-circle {
+	border-radius: 15% !important;
 }

@@ -1,5 +1,7 @@
 ---
 ---
+@use "main";
+
 
 @use 'main
 {%- if jekyll.environment == 'production' -%}
@@ -11,4 +13,8 @@
 
 .rounded-circle {
 	border-radius: 15% !important;
+}
+
+.px-xxl-5 {
+	padding-right: 0 !important;
 }

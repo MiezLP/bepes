@@ -1,0 +1,18 @@
+---
+---
+
++@use 'abstracts/variables' with ( 
++  $sidebar-width: 250px 
++);
+
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
+.rounded-circle {
+  border-radius: 15% !important;
+}

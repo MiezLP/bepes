@@ -12,31 +12,3 @@
 .rounded-circle {
   border-radius: 15% !important;
 }
-
-.px-xxl-5 {
-	padding-right: 0 !important;
-	padding-left: 3rem !important;
-}
-
-#toc-wrapper > *, .access > section {
-	border-right: 1px solid var(--main-border-color);
-	border-left: 0px solid var(--main-border-color);
-	text-align: right;
-	padding-right: 1rem;
-}
-
-.post-tag {
-  flex-direction: row-reverse;
-}
-
-#main-wrapper > .container {
-	max-width: 3550px;
-	padding-left: 1.75rem !important;
-	padding-right: 1.75rem !important;
-}
-
-footer {
-  width: 100%;
-  box-sizing: border-box;
-}
-

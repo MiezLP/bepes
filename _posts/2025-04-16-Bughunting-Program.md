@@ -17,23 +17,30 @@ Redeem Coins by using */Item Buy [Item Name]*
 
 # __Rewards__
 {: .mt-4 .mb-0 }
-### Severe Bug - 100 BugCoins
+## Severe Bug - 100 BugCoins
+{: data-toc-skip='' .mt-4 .mb-0 }
   - Duplication Glitches
   - Game Breaking Exploits
   - Base Deletion or Corruption
   - Infinite Money/Resource Generation
   - Item Cloning Across Servers
-### Major Bug - 50 BugCoins
+
+## Major Bug - 50 BugCoins
+{: data-toc-skip='' .mt-4 .mb-0 }
   - Teleportation Glitches
   - Money Glitches
   - Clipping Through Locked Areas
   - Moving Other Player's Items
   - Breaking Plot Boundaries
-### Medium Bug - 25 BugCoins
+
+## Medium Bug - 25 BugCoins
+{: data-toc-skip='' .mt-4 .mb-0 }
   - Incorrect Datastoring (Plot saving)
   - Items getting Lost
   - Teleportation exploits
-### Minor Bug - 10 BugCoins
+
+## Minor Bug - 10 BugCoins
+{: data-toc-skip='' .mt-4 .mb-0 }
   - UI Bugs
   - Animation Glitches
   - Sound Glitches
